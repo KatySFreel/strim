@@ -1,5 +1,5 @@
 # strim
-Адаптивная вёрстка с использованием GULP, SCSS
+Вёрстка с использованием GULP, SCSS
 
 ![Image](https://github.com/KatySFreel/strim/raw/main/preview.png)
 
